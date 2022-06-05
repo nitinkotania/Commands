@@ -1,0 +1,2 @@
+To change file permission, without closing it(losing the current changes), without exiting to save the changes:
+  :w !sudo tee %
